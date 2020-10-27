@@ -1,3 +1,30 @@
+Hey,
+This is Shahriar Ahmed Shovon and <b>React Covid Tracker</b> is a platform to get live update covid situation. This web app will provide absolute data from famous api for covid 19 tracking project. You can do here
+<ol>
+  <li>Get Data of your current location</li>
+  <li>Death, Infected and recovered data</li>
+  <li>Live update data based on country</li>
+</ol>
+
+Maybe I will add some features like
+<ol>
+  <li>Graph Presententation</li>
+  <li>State baesd data</li>
+</ol>
+
+## Technology I used
+
+<ol>
+  <li>React 16.13.x</li>
+  <li>Axios</li>
+  <li>Context API</li>
+  <li>React Bootstrap</li>
+</ol>
+
+## Conslusion
+
+Actually I could make this project more feature enabled and beautiful but I was just experimenting with some react feature. When I got succeed on the experiment then I just pushed it on github and never cared for this. And also my code is so ugly to read. There are no comment and standard rules to follow. I apologize for that, and thanks a lot for visiting my code.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
