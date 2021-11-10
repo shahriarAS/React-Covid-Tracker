@@ -1,5 +1,5 @@
 Hey,
-This is Shahriar Ahmed Shovon and <b>React Covid Tracker</b> is a platform to get live update covid situation. This web app will provide absolute data from famous api for covid 19 tracking project. You can do here
+This is Shahriar Ahmed Shovon and <b>React Covid Tracker</b> is a platform to get live update covid situation. This web app will provide absolute data from famous api for covid 19 tracking project. You can do here 
 <ol>
   <li>Get Data of your current location</li>
   <li>Death, Infected and recovered data</li>
